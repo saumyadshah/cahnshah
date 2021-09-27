@@ -1302,12 +1302,7 @@ section {
   text-decoration: none;
 }
 
-#footer .copyright {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
+
 
 #footer .copyright span {
   font-weight: bold;
